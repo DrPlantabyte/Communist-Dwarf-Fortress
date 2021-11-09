@@ -3,6 +3,7 @@ language_ELF
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:ELF]
+	[T_WORD:SICKLE:liir]
 	[T_WORD:ABBEY:cebela]
 	[T_WORD:ACE:adi]
 	[T_WORD:ACT:ar¢]

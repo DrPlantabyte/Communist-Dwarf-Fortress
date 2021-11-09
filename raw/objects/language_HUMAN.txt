@@ -3,6 +3,7 @@ language_HUMAN
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:HUMAN]
+	[T_WORD:SICKLE:thip]
 	[T_WORD:ABBEY:nithros]
 	[T_WORD:ACE:ilpi]
 	[T_WORD:ACT:use]

@@ -3,6 +3,7 @@ language_DWARF
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:DWARF]
+	[T_WORD:SICKLE:sik]
 	[T_WORD:ABBEY:kulet]
 	[T_WORD:ACE:alak]
 	[T_WORD:ACT:bidok]

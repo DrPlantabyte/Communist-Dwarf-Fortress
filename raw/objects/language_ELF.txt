@@ -3,6 +3,8 @@ language_ELF
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:ELF]
+	[T_WORD:COMMUNIST:melina]
+	[T_WORD:COMMUNE:lina]
 	[T_WORD:SICKLE:liir]
 	[T_WORD:ABBEY:cebela]
 	[T_WORD:ACE:adi]

@@ -3,6 +3,8 @@ language_DWARF
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:DWARF]
+	[T_WORD:COMMUNIST:kom—r]
+	[T_WORD:COMMUNE:kom—n]
 	[T_WORD:SICKLE:sik]
 	[T_WORD:ABBEY:kulet]
 	[T_WORD:ACE:alak]

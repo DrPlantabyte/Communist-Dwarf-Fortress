@@ -6,6 +6,8 @@ DF Nobility: Liaison, Baron, Count, Duke, King/Queen, Heir
 Commy ranks: Representative, Party Member, Kommissar, Secretariat, Chairman/Chairwoman
 
 Commy words:
+Commune	x
+Communist	x
 Mao
 Lenin
 Marx
@@ -16,6 +18,7 @@ Soviet
 Labor
 Revolutionary
 People's
+Worker's
 Komrad
 Politburo
 committee

@@ -3,6 +3,8 @@ language_HUMAN
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:HUMAN]
+	[T_WORD:COMMUNIST:munni]
+	[T_WORD:COMMUNE:muntha]
 	[T_WORD:SICKLE:thip]
 	[T_WORD:ABBEY:nithros]
 	[T_WORD:ACE:ilpi]

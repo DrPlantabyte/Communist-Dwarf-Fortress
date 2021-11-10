@@ -3,6 +3,8 @@ language_GOBLIN
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:GOBLIN]
+	[T_WORD:COMMUNIST:ustkox]
+	[T_WORD:COMMUNE:koxi]
 	[T_WORD:SICKLE:xuel]
 	[T_WORD:ABBEY:xenmu]
 	[T_WORD:ACE:ogo]

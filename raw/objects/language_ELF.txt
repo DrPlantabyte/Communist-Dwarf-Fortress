@@ -3,6 +3,8 @@ language_ELF
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:ELF]
+	[T_WORD:REACTIONARY:zecra]
+	[T_WORD:REVOLUTION:ethra]
 	[T_WORD:SOVIET:bani]
 	[T_WORD:MARX:marx]
 	[T_WORD:MAO:mao]

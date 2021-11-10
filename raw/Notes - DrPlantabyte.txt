@@ -16,8 +16,8 @@ Stalin	x
 Trotsky	x
 Union	X
 Soviet	x
-Labor
-Revolutionary
+Labor	x
+Revolutionary	x
 People's
 Worker's
 Komrad

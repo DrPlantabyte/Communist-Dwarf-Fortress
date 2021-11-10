@@ -1,6 +1,7 @@
 Wiki Links:
 http://dwarffortresswiki.org/index.php/DF2014:Modding
 http://dwarffortresswiki.org/index.php/DF2014:Noble
+https://dwarffortresswiki.org/index.php/DF2014:Name
 
 DF Nobility: Liaison, Baron, Count, Duke, King/Queen, Heir
 Commy ranks: Representative, Party Member, Kommissar, Secretariat, Chairman/Chairwoman
@@ -8,11 +9,11 @@ Commy ranks: Representative, Party Member, Kommissar, Secretariat, Chairman/Chai
 Commy words:
 Commune	x
 Communist	x
-Mao
-Lenin
-Marx
-Stalin
-Trotsky
+Marx	x
+Mao	x
+Lenin	x
+Stalin	x
+Trotsky	x
 Union
 Soviet
 Labor

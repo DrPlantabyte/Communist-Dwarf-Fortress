@@ -3,6 +3,11 @@ language_DWARF
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:DWARF]
+	[T_WORD:MARX:marx]
+	[T_WORD:MAO:mao]
+	[T_WORD:LENIN:lenin]
+	[T_WORD:STALIN:stalin]
+	[T_WORD:TROTSKY:trotsky]
 	[T_WORD:COMMUNIST:kom—r]
 	[T_WORD:COMMUNE:kom—n]
 	[T_WORD:SICKLE:sik]

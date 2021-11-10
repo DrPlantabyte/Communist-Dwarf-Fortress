@@ -18,8 +18,8 @@ Union	X
 Soviet	x
 Labor	x
 Revolutionary	x
-People's
-Worker's
+People's	x
+Worker's	x
 Komrad
 Politburo
 committee

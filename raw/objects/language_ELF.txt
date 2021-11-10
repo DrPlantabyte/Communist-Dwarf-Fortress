@@ -3,6 +3,8 @@ language_ELF
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:ELF]
+	[T_WORD:WORKER:˜aroni]
+	[T_WORD:PEOPLE:˜arino]
 	[T_WORD:REACTIONARY:zecra]
 	[T_WORD:REVOLUTION:ethra]
 	[T_WORD:SOVIET:bani]

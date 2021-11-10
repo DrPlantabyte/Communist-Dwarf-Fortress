@@ -3,6 +3,7 @@ language_HUMAN
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:HUMAN]
+	[T_WORD:SOVIET:sowit]
 	[T_WORD:MARX:marx]
 	[T_WORD:MAO:mao]
 	[T_WORD:LENIN:lenin]

@@ -3,6 +3,7 @@ language_DWARF
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:DWARF]
+	[T_WORD:SOVIET:k“ndos]
 	[T_WORD:MARX:marx]
 	[T_WORD:MAO:mao]
 	[T_WORD:LENIN:lenin]

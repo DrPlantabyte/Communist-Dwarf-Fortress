@@ -3,6 +3,7 @@ language_GOBLIN
 [OBJECT:LANGUAGE]
 
 [TRANSLATION:GOBLIN]
+	[T_WORD:SOVIET:zoxt]
 	[T_WORD:MARX:marx]
 	[T_WORD:MAO:mao]
 	[T_WORD:LENIN:lenin]

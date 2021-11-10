@@ -14,8 +14,8 @@ Mao	x
 Lenin	x
 Stalin	x
 Trotsky	x
-Union
-Soviet
+Union	X
+Soviet	x
 Labor
 Revolutionary
 People's

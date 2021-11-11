@@ -42,7 +42,7 @@ Penetration size currently only matters for edged attacks.
 	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SICKLE]
-[NAME:sickle:sickless]
+[NAME:sickle:sickles]
 [SIZE:300]
 [SKILL:SWORD]
 [TWO_HANDED:37500]

@@ -2,6 +2,19 @@ descriptor_shape_standard
 
 [OBJECT:DESCRIPTOR_SHAPE]
 
+
+[SHAPE:HAMMER]
+	[NAME:hammer:hammers]
+	[WORD:HAMMER]
+	[TILE:'T']
+	[CATEGORY:SIMPLE]
+
+[SHAPE:SICKLE]
+	[NAME:sickle:sickles]
+	[WORD:SICKLE]
+	[TILE:')']
+	[CATEGORY:SIMPLE]
+
 [SHAPE:STAR]
 	[NAME:star:stars]
 	[WORD:STAR]

@@ -20,15 +20,15 @@ Labor	x
 Revolutionary	x
 People's	x
 Worker's	x
-Komrad
-Politburo
-committee
-proletariat
-exploitation
-capitalist
-politburo
-socialist
-party
+Komrad	x
+Politburo	x
+manifesto	x
+committee	x
+proletariat	x
+exploitation	x
+capitalist	x
+socialist	x
+party	x
 
 Commy items:
 sickle

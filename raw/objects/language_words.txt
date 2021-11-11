@@ -6145,7 +6145,7 @@ language_words
 		[THE_COMPOUND_ADJ]
 
 [WORD:PROLETARIAN]
-	[NOUN:proletariat:proletariat]
+	[NOUN:proletariat:proletariats]
 		[FRONT_COMPOUND_NOUN_SING]
 		[REAR_COMPOUND_NOUN_SING]
 		[THE_NOUN_SING]
